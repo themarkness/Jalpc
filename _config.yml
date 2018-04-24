@@ -14,7 +14,8 @@ author:  # change following line to your infomation.
   name: Mark  # Be used at blog posts' author.
   first_name: Mark  # Be used at index page about me section.
   last_name: Williams  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/2f86b7a5e329c7777a0062ae2ccf23a9.jpeg
+  # upload your avatar at directory and edit it.
   github_username: the_markness  # Leave blank if you don't have now
   linkedin_id: # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
