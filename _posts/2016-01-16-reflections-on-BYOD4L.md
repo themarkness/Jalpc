@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflections on BYOD4L"
-date:   2016-16-01
+date:   2016-01-16
 desc: "Reflections on BYOD4L"
 keywords: "byod4l"
 categories: [MA]
