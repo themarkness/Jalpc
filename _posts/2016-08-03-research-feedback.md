@@ -6,7 +6,7 @@ desc: "Research proposal feedback"
 keywords: "reasearch"
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 I've now received initial feedback on my [research proposal](https://docs.google.com/document/d/1Wm93JbaeT_QREJJaxCdvQqXaHiiXJ5ihIAhBJ4aI3TM/edit#heading=h.lgpe764hzwlv) and the key things that stand out are backing up examples and using proper Harvard referencing... seems RefMe can't do everything for me. It reminds my of GCSE History and the need to distinguish Primary and Secondary evidence.
 

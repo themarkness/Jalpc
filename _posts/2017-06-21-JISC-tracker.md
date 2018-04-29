@@ -6,7 +6,7 @@ desc: "Jiscdigitalstudenttracker2017"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 My interest in student expectations upon learning technologies came predominantly from attending Jisc's Digifest conferences over the last few years, and the research I've undertaken follows a similar patter to the recent digital tracker that education institutions have taken part in over the last few months. 
 

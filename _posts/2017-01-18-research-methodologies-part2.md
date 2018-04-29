@@ -6,7 +6,7 @@ desc: "Research methodologies"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 Reading Bird's (1992) case study on Mixed methods research, who talks about the role of the insider research and frames the study in her own experience noting that "my theoretical viewpoint and frames of reference undoubtedly influenced the research". Also that the experience of being a student/adult learner also led to understanding the impact of the research.
 

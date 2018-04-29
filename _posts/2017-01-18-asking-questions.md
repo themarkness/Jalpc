@@ -6,7 +6,7 @@ desc: "Asking Questions"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 For the second phases of the study, the data collection method I am using is a semi structured interview/focus group. This is what Wilson (2006) calls "free format" conducted like "natural conversations".
 

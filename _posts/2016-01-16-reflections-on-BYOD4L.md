@@ -6,7 +6,7 @@ desc: "Reflections on BYOD4L"
 keywords: "byod4l"
 categories: [MA]
 tags: [byod4l]
-icon: icon-html
+icon: fa-graduation-cap
 ---
 Last week (11th-15th Jan), I had the opportunity to engage in the '**open magic box'** that is [Bring Your Own Device For Learning](https://www.google.com/url?q=https://byod4learning.wordpress.com/&sa=D&ust=1453303644487000&usg=AFQjCNFchb4iIeN60LPtU97xGbNvUEwGiw) or[#BYOD4L](https://www.google.com/url?q=https://twitter.com/hashtag/byod4l&sa=D&ust=1453303644487000&usg=AFQjCNHg9L3H31y2dYqiN16EY1SbBGls1w) on social media. I had taken part in 2015, but this year I also volunteered as a community mentor and helped facilitate a [tweetchat](https://www.google.com/url?q=http://lthechat.com/tweetchat-help/&sa=D&ust=1453303644488000&usg=AFQjCNGIUD9560huAA9adCk5XMmbvcjwSA).
 

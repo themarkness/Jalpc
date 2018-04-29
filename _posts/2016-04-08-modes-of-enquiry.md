@@ -6,7 +6,7 @@ desc: "modes of enquiry"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 Having set out my research proposal, I'm now thinking of shifting the 'focus' from focus groups to questionnaires. There exist two great surveys in the field already from [UCISA](http://www.ucisa.ac.uk/tel) and [ECAR](http://www.educause.edu/library/resources/2014-student-and-faculty-technology-research-studies), but in the UK we also have the [JISC/NUSBenchmarking Tool](http://repository.jisc.ac.uk/6140/1/Jisc_NUS_student_experience_benchmarking_tool.pdf), which promotes good practice regarding 'digital capability'.
 

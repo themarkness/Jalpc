@@ -6,7 +6,7 @@ desc: "Analysis continued"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 I've been trying to get my head around the data analysis side of things. The [Braun & Clarke (2006)](https://www.researchgate.net/profile/Eliana_Gallardo_Echenique/publication/275952540/figure/fig1/AS:294476196139009@1447220004396/Figure-1-Phases-of-Thematic-Analysis-Adapted-from-Braun-Clarke-2006-p-87.png) diagram of thematic analysis helps and I will definitely use this approach. I have been taken of on a tagent a bit by use of the [AntConc](http://www.laurenceanthony.net/software.html) software. It's really interesting to see commonality in data items, but it's difficult to know how or if to interpret patterns that are more than a word count.
 

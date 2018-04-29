@@ -6,7 +6,7 @@ desc: "Reflections on policy review assignment"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 A question arose around _"short-term, intermediate, and long-term outcomes and impacts regarding target audience behavior, awareness, attitudes and knowledge and whether there is anything in place at Falmouth University to track and observe these indicators that are specific, observable, measurable characteristics of changes that demonstrates progress towards the outcomes or impacts."_
 

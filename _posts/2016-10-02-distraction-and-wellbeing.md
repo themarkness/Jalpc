@@ -6,7 +6,7 @@ desc: "How technology distracts students and engages them."
 keywords: "digital wellbeing, wellbeing"
 categories: [MA]
 tags: [digital wellbeing, wellbeing]
-icon: icon-html
+icon: fa-graduation-cap
 ---
 One of the key emergent themes from my pilot study was that of technology as a distraction or a means of procrastination and this having a perceived negative effect on our sense of wellbeing. [Rosen et. al (2013)](https://pdfs.semanticscholar.org/a449/623136ff47e87ec67a1a6f2980ef108c328d.pdf) find a negative connection between looking at social media during lectures and academic performance and suggest using "technology breaks" in a similar fashion to a coffee break to mitigate this.  
 

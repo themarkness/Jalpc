@@ -6,7 +6,7 @@ desc: "Initial Thoughts"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 Had a first read through of my interview and focus group transcripts and made some notes, tried to connect some themes. It's really interesting and affirming when you read back and common terminology appears.
 

@@ -6,7 +6,7 @@ desc: "Transcription"
 keywords: ""
 categories: [MA]
 tags: []
-icon: icon-html
+icon: fa-graduation-cap
 ---
 Today I finished the last transcription of my interviews and focus group. It was hard and robotic work and I can see why people make use of things like [fiverr](fiverr.com) to get people to do it for them. I tried using [Google Docs voice to text](https://support.google.com/docs/answer/4492226?hl=en) facility too, but it only really works if you're sat in front of the device talking.
 
