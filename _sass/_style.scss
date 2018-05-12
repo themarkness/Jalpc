@@ -51,14 +51,14 @@ h3, h4, h5 {
     color: #999c9e;
   }
   > li.active > a {
-    color: #fff;
+    color: #3385ff;
   }
 }
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
     background-color: #293846;
-    color: #fff;
+    color: #676a6c;
   }
 }
 
@@ -154,10 +154,10 @@ h3, h4, h5 {
 
 .navbar-default .landing_link a {
   background: #3385FF;
-  color: #fff;
+  color: #3385FF;
   &:hover {
     background: #3385FF !important;
-    color: #fff;
+    color: #3385FF;
   }
   span.label {
     background: #fff;
@@ -306,7 +306,7 @@ body.canvas-menu .nav-header {
 
 .navbar-toggle {
   background-color: #3385FF;
-  color: #fff;
+  color: #3385FF;
   padding: 6px 12px;
   font-size: 14px;
 }
