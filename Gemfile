@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'htmlproofer'
+gem 'html-proofer'
 gem 'github-pages', group: :jekyll_plugins
