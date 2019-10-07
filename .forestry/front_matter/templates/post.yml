@@ -26,5 +26,3 @@ fields:
 - type: text
   name: icon
   label: icon
-pages:
-- _posts/2019-05-31-new post.md
