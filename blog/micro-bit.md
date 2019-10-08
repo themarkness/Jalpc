@@ -8,6 +8,5 @@ categories:
 - micro:bit
 tags: []
 icon: ''
-published: false
 
 ---
