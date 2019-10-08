@@ -10,3 +10,4 @@ tags: []
 icon: ''
 
 ---
+{% include category.html %}
