@@ -13,9 +13,7 @@ icon: fa-graduation-cap
 ---
 I'm particularly interested in Digital Wellbeing as part of the student experience. How do institutions and staff support our learners in considering the impact of technology on themselves? How do students support themselves in this regard? I've recently heard the term 'Cyber Anxiety' to refer to engagement with technology and I think this ties in with the [Fear Of Missing Out](http://www.huffingtonpost.com/news/fear-of-missing-out/)(FOMO) and Jenkin's [Culture of Participation](https://www.youtube.com/watch?v=HYbSD_GdkjU). I was reading the brilliant [JISC/NUS Benchmarking Tool](http://repository.jisc.ac.uk/6140/1/Jisc_NUS_student_experience_benchmarking_tool.pdf) to give me some ideas for Focus Groups and Surveys and didn't realise that towards the end there's a section on Digital Wellbeing.
 
-![JISC Benchmarking tool](http://image.slidesharecdn.com/slidesforucl-150613220309-lva1-app6891/95/jisc-benchmarking-students-digital-experience-helen-beetham-8-638.jpg?cb=1434241373)
-
-For my study, I thought I'd break down how I think we've been approaching some of this stuff (or not) at Falmouth. Tools like this are incredibly useful in starting conversations and showing others how we can work together across teams/departments and with students. I've already pointed our DVC Teaching & Learning, Head of ICT Strategy and SU President to the document and I'm hoping to start joining the dots in the near future.
+![Jisc benchmarking tool](/uploads/jisc.jpg "Jisc Benchmarking tool")For my study, I thought I'd break down how I think we've been approaching some of this stuff (or not) at Falmouth. Tools like this are incredibly useful in starting conversations and showing others how we can work together across teams/departments and with students. I've already pointed our DVC Teaching & Learning, Head of ICT Strategy and SU President to the document and I'm hoping to start joining the dots in the near future.
 
 ## First Steps
 
@@ -25,6 +23,6 @@ There isn't much policy around working online, I co-created [a policy for a rece
 
 I'm writing whilst reading here, and I hoped to add a bit more about current developments, but I think Falmouth are still making First Steps. It's no bad thing.. there is a way to go, but the Benchmarking tool gives us a useful target and I hope I can be involved in getting us there. There is one initiative of note though. A Student Union 'Green Living' project and events called the 'Digital Detox Series'. This focusses on removing oneself from the day to day technology that we use and engaging in outdoor making and horticultural activities as a means to improve wellbeing.
 
-![Digital Detox Series](http://www.fxu.org.uk/pageassets/greenliving/best-of-FXU-GLP-Facebook_RGB.jpg)
+![FXU Digital Detox tool](/uploads/fxu.jpg "FXU Digital Detox tool")
 
 This reaction to technology use is in accordance with the notion that student's technology use is mediated by the institution ([Henderson et. al](student-perceptions-od-what-works-in-edtech/)) and that we have to engage with certain things just to navigate the student experience. I think it would be interesting to conduct some interviews to learn a bit more about this area of what JISC are referring to as 'digital capability'.
