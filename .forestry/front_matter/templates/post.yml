@@ -27,4 +27,5 @@ fields:
   name: icon
   label: icon
 pages:
+- _posts/micro-bit-noise-ensemble.md
 - blog/micro-bit.md
