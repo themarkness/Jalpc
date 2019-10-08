@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: micro:bit
-date: 2019-10-07 23:00:00 +0000
+title: microbit
+date: 2019-10-07T23:00:00.000+00:00
 desc: ''
 keywords: ''
 categories:
