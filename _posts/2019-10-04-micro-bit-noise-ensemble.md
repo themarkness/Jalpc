@@ -38,4 +38,4 @@ Here are the links to the presentation and the associated worksheets. All CC0 Pu
 
 And here is the [**inaugural performance of the** **micro:bit noise ensemble! **](https://drive.google.com/file/d/1syLswDP5hDVRw4h-LguQC-Wqws8LUTRX/view?usp=sharing)
 
-Thanks to all those that took part. I look forward to performing with you again : )
+Thanks to all those that took part. I look forward to performing with you again soon : )
